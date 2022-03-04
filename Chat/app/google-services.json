@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379186109475",
+    "firebase_url": "https://chatapp-448a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-448a1",
+    "storage_bucket": "chatapp-448a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379186109475:android:1b64d4f82ef98d6aa96596",
+        "android_client_info": {
+          "package_name": "com.westmark.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379186109475-ca10rvuqjmvvit0151kkogtt2ojalmmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApKrx8VNCQfNZW9QOSlQwE_9yk14dcXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379186109475-ca10rvuqjmvvit0151kkogtt2ojalmmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
