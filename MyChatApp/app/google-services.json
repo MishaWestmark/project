@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598894074468",
+    "project_id": "mychatapp-dd7dd",
+    "storage_bucket": "mychatapp-dd7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598894074468:android:2c14533cbded931b7e1d71",
+        "android_client_info": {
+          "package_name": "com.westmark.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598894074468-mk9cnnf8ud14gpq9aj51le2eqga4roe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUH7SSiQMwd9vxT66d60N2O8w3gxuq7VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598894074468-mk9cnnf8ud14gpq9aj51le2eqga4roe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

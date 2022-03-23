@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">login</string>
+    <string name="car1">Car1</string>
+    <string name="car2">Car2</string>
+    <string name="car3">Car3</string>
+    <string name="car4">Car4</string>
+</resources>
