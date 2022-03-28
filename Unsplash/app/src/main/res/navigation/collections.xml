@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/collections"
+    app:startDestination="@id/collectionsFragment">
+
+    <fragment
+        android:id="@+id/collectionsFragment"
+        android:name="com.westmark.unsplash.presentation.ui.collections.CollectionsListFragment"
+        android:label="fragment_collections"
+        tools:layout="@layout/fragment_collections_list" >
+        <action
+            android:id="@+id/action_collectionsFragment2_to_detailCollectionFragment"
+            app:destination="@id/detailCollectionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailCollectionFragment"
+        android:name="com.westmark.unsplash.presentation.ui.collections.detail.DetailCollectionFragment"
+        android:label="DetailCollectionFragment" >
+        <argument
+            android:name="id"
+            app:argType="string" />
+    </fragment>
+</navigation>

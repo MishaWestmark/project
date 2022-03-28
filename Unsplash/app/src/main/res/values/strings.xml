@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding_text_1">Создавайте снимки, публикуйте, собирайте аудиторию, получайте фидбек!</string>
+    <string name="onboarding_text_2">Делитесь с друзьями, собирайте коллекции</string>
+    <string name="onboarding_text_3">Загружайте любимые снимки и отслеживайте статистику</string>
+    <string name="auth_canceled">Аутентификация не выполнена</string>
+    <string name="ribbon">Лента</string>
+    <string name="collections">Коллекции</string>
+    <string name="profile">Профиль</string>
+    <string name="enter_unsplash">Войти через Unsplash</string>
+    <string name="call_canceled">Запрос не выполнен</string>
+    <string name="retry">Retry</string>
+    <string name="photo">Photo</string>
+    <string name="share">share</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/btn_background.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ellipse.xml" value="0.4955" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_download.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_forward.xml" value="0.4955" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.356" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_place.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_share.xml" value="0.343" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/ic_unlike.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/image_backgoround_arrow.xml" value="0.4955" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/image_unlike_background.xml" value="0.356" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/indicator_active_background.xml" value="0.4955" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/indicator_inactive_background.xml" value="0.4955" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/items_selector.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/spin_ring.xml" value="0.512" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/drawable/text_background.xml" value="0.356" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/activity_main.xml" value="0.4211469534050179" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/activity_menu.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_action.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_auth.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_collections.xml" value="0.5092307692307693" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_detail_collection.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_detail_photo.xml" value="0.5" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_login.xml" value="0.5092307692307693" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_main.xml" value="0.4211469534050179" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_onboard.xml" value="0.503125" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_onboarding.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_photo_list.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_profile.xml" value="0.5" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_collection.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_collection_photo.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_onboarding.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_photo.xml" value="1.25" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_progressbar.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/menu-v26/bottom_navigation_menu.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.45864661654135336" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/menu/menu_share.xml" value="0.5171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
