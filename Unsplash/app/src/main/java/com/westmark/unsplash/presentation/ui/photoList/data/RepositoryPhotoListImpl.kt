@@ -26,7 +26,7 @@ class RepositoryPhotoListImpl @Inject constructor(
         val pagingSourceFactory = { photoDao.getPhotoDatabase() }
         return Pager(
             config = PagingConfig(
-                pageSize = CollectionsPagingSource.NETWORK_PAGE_SIZE,
+                pageSize = 10,
                 enablePlaceholders = false
             ),
             remoteMediator = UnsplashRemoteMediator(api, photoDao, remoteDao, database),

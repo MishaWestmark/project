@@ -23,6 +23,7 @@
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_action.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_auth.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_collections.xml" value="0.5092307692307693" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_collections_list.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_detail_collection.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_detail_photo.xml" value="0.5" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_login.xml" value="0.5092307692307693" />
@@ -31,6 +32,9 @@
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_onboarding.xml" value="0.2175925925925926" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_photo_list.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_profile.xml" value="0.5" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_profile_collections.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_profile_liked_photos.xml" value="0.5171875" />
+        <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/fragment_profile_photos.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_collection.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_collection_photo.xml" value="0.5171875" />
         <entry key="..\:/Users/westmark/Desktop/Diplom/diplom_android_lvl1/Unsplash_skillbox/app/src/main/res/layout/item_onboarding.xml" value="0.5171875" />
