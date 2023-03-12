@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_bottom"
+    app:startDestination="@id/page1Fragment">
+
+    <fragment
+        android:id="@+id/basketFragment"
+        android:name="com.example.testappeff.screens.main.other.BasketFragment"
+        android:label="BasketFragment" />
+    <fragment
+        android:id="@+id/commentsFragment"
+        android:name="com.example.testappeff.screens.main.other.CommentsFragment"
+        android:label="CommentsFragment" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.example.testappeff.screens.main.other.FavoriteFragment"
+        android:label="FavoriteFragment" />
+    <fragment
+        android:id="@+id/page1Fragment"
+        android:name="com.example.testappeff.screens.main.page1.Page1Fragment"
+        android:label="Page1Fragment">
+        <action
+            android:id="@+id/action_page1Fragment_to_page2Fragment"
+            app:destination="@id/page2Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.testappeff.screens.main.profile.ProfileFragment"
+        android:label="ProfileFragment">
+        <action
+            android:id="@+id/action_profileFragment_to_mainActivity"
+            app:destination="@id/mainActivity"
+            app:popUpTo="@id/nav_graph_bottom"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.testappeff.screens.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/page2Fragment"
+        android:name="com.example.testappeff.screens.main.page2.Page2Fragment"
+        android:label="Page2Fragment" />
+</navigation>

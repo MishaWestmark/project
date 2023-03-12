@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestAppEff</string>
+    <string name="sign_in">Sign in</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="password">Password</string>
+    <string name="profile">Profile</string>
+    <string name="change_photo">Change photo</string>
+</resources>
