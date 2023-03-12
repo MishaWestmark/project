@@ -10,6 +10,7 @@ import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
+import androidx.navigation.fragment.findNavController
 import androidx.viewpager2.widget.ViewPager2
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.bumptech.glide.Glide
@@ -33,6 +34,9 @@ class Page2Fragment : Fragment(R.layout.fragment_page2) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        binding.toolbar.setOnClickListener {
+            findNavController().navigate(Page2FragmentDirections.actionPage2FragmentToPage1Fragment())
+        }
         viewModel.detailInfoLiveData.observe(viewLifecycleOwner) { item ->
             imageUrlList = item.imageUrls
             lifecycleScope.launch {
@@ -49,12 +53,6 @@ class Page2Fragment : Fragment(R.layout.fragment_page2) {
                 tvReviews.text = "(${item.numberOfReviews})"
             }
         }
-
-
-    }
-
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
     }
 
     private fun setupViewpager() {

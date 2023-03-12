@@ -20,12 +20,14 @@ class SignInViewModel @Inject constructor(
     suspend fun saveNewProfile(firstName: String, lastName: String, email: String) {
         repository.checkProfileExist(firstName, lastName, email).collect {
             if (it == null) {
-                updateState { copy(isProfile = true) }
+                _isExistLive.value = true
+//                updateState { copy(isProfile = true) }
                 repository.saveNewProfile(firstName, lastName, email)
             } else {
-                updateState { copy(isProfile = false) }
+                _isExistLive.value = false
+//                updateState { copy(isProfile = false) }
             }
-            _isExistLive.value = stateFlow.value.isProfile
+//            _isExistLive.value = stateFlow.value.isProfile
             Log.e("loginviewmodel", it.toString())
             Log.e("loginviewmodel", stateFlow.value.isProfile.toString())
         }
@@ -43,8 +45,4 @@ class SignInViewModel @Inject constructor(
 //            }
 
     }
-
-//    fun updateProfileState(firstName: String, lastName: String, email: String) {
-//        updateState { copy(firstName = firstName, lastName = lastName, email = email) }
-//    }
 }
